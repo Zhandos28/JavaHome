@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.university.week1.MyInteger</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.university.week1.MyInteger</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="0.8161764705882353" showDependencies="false" x="98.0" y="194.0" />
+  <SelectedNodes>
+    <node>com.university.week1.MyInteger</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
